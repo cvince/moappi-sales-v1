@@ -2,7 +2,7 @@ moappi-sales
 ============
 
 Various sales sites I created for original version of moappi product  
-Examples here:
+Examples here:  
 http://www.3ntrance.com/moappi/0.1/  
 http://www.3ntrance.com/moappi/0.2/
 
